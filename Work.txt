@@ -1,0 +1,33 @@
+Service Provider
+
+Login,
+Browse and Train & Test Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Prediction Of Robbery Behavior Type, 
+View Robbery Behavior Type Ratio, 
+Download Predicted Data Sets, 
+View Robbery Behavior Type Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT ROBBERY BEHAVIOR TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+Fid,	
+event _ unique _ id,	
+occurrencedate,	
+reporteddate,	
+location _ type,	
+premises _ type,	
+Neighbourhood,	
+Longitude,	
+Latitude,
+Prediction.
